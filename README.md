@@ -5,6 +5,9 @@ This repository demonstrates the **Spring AI Orchestrator-Workers Workflow Patte
 📖 **Dive Deeper**: For a complete walkthrough, detailed explanations of the Orchestrator-Workers Workflow pattern, and step-by-step instructions for building the example application, read our comprehensive blog post.<br>
 👉 [Spring AI Orchestrator-Workers Workflow: Dynamic Task Orchestration for LLM Applications](https://bootcamptoprod.com/spring-ai-orchestrator-workers-workflow-guide/)
 
+🎥 **Visual Learning**: Prefer video tutorials? Watch our step-by-step implementation guide on YouTube.<br>
+👉 [Spring AI Orchestrator-Workers Workflow: Dynamic Task Orchestration for LLM Applications](https://youtu.be/NyJbDkY14fY)
+
 ---
 
 ## 📦 Environment Variables
